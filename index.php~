@@ -1,0 +1,8 @@
+<?php
+
+include('header.php');
+
+echo "<h1>bla</h1>"
+
+include('footer.php');
+?>
